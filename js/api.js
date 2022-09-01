@@ -140,7 +140,7 @@ async function callApi(method, port, body, oCall) {
 
             console.log(data)
 
-            //var data1 = JSON.stringify(data);
+            //var data1 = JSON.stringify(data); 
 
             //const dados = JSON.parse(data);
 
